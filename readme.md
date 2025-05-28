@@ -13,4 +13,8 @@ This will show the current working  directory along with it's pathway: /home/use
 
 4. mkdir : a linux command to create a new directory.  
 Ex:  username:~/assignments$ mkdir assignment1  
-This will create a new directory called "assignment1" in the assignments directory
+This will create a new directory called "assignment1" in the assignments directory  
+
+5. touch : a linux command to create an empty file in the current directory.  
+Ex:  username:~/assignment1$ touch readme.md  
+This will create a new file "readme.md" in the assignment1 directory  
