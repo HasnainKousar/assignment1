@@ -53,4 +53,8 @@ This will push changes from your main branch on local repo to the main branch on
 
 14. git add : git command to add a file in it's current status to the next commit.  
 Ex: username:~/assignment1$ git add readme.md  
-This will add the readme.md file in it's current form with all the changes to the next commit 
+This will add the readme.md file in it's current form with all the changes to the next commit  
+
+15. git commit- a git command to save changes to the local repo along with a message to describe the changes.  
+Ex:  username:~/assignment1$ git commit -m 'added a command to the sheet'  
+This will save changes to local repo with the message 'added a command to the sheet'  
