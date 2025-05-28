@@ -19,6 +19,10 @@ This will create a new directory called "assignment1" in the assignments directo
 Ex:  username:~/assignment1$ touch readme.md  
 This will create a new file "readme.md" in the assignment1 directory  
 
-6. rm - a linux command to remove files and directories.  
+6. rm : a linux command to remove files and directories.  
 Ex:  username:~/assignment1$ rm readme.md  
-This will remove the readme.md file from the assignment1 directory    
+This will remove the readme.md file from the assignment1 directory  
+
+7. mv : linux command to move/rename files and directories.  
+Ex:   username:~/assignment1$ mv readme.md file.txt  
+This will rename the readme.md file to the new name 'file.txt'
