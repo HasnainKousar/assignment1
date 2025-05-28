@@ -29,4 +29,8 @@ This will rename the readme.md file to the new name 'file.txt'
 
 8. cat : a linux command used to view the content of a file.  
 Ex:  username:~/assignment1$ cat readme.md  
-This will show the content of the readme.md file
+This will show the content of the readme.md file  
+
+9. git init : a git command to initialize the current directory as a Git repository.  
+Ex: username:~/assignment1$ git init  
+This will initialize assignment1 as a Git repository
