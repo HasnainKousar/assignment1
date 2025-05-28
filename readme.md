@@ -10,3 +10,7 @@ This will change the current directory to assignment1
 3. pdw : a linux command to print out the current working directory.  
 Ex: username:~/assignment1$ pdw  
 This will show the current working  directory along with it's pathway: /home/username/assignment1  
+
+4. mkdir : a linux command to create a new directory.  
+Ex:  username:~/assignments$ mkdir assignment1  
+This will create a new directory called "assignment1" in the assignments directory
