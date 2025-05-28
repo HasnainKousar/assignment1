@@ -45,4 +45,8 @@ This will create a new branch called branch1 and switch to it
 
 12. git remote add origin < url > : a git command to allow you to connect your local repo to a remote repo hosted on a platform such as Github.  
 Ex. username:~/assignment1$ git remote add origin < url >  
-This will connect your local repo to a remote repo
+This will connect your local repo to a remote repo  
+
+13. git push : a git command to push/upload the content from your local repo to the remote repo.  
+Ex: username:~/assignment1$ git push origin main  
+This will push changes from your main branch on local repo to the main branch on remote repo 
