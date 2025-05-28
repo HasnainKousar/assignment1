@@ -41,4 +41,8 @@ This will clone the entire repo from the hosted location given by the url
 
 11. git checkout -b "name" : a git command to create a new branch and switch to it.  
 Ex: username:~/assignment1$ git checkout -b branch1  
-This will create a new branch called branch1 and switch to it
+This will create a new branch called branch1 and switch to it  
+
+12. git remote add origin < url > : a git command to allow you to connect your local repo to a remote repo hosted on a platform such as Github.  
+Ex. username:~/assignment1$ git remote add origin < url >  
+This will connect your local repo to a remote repo
