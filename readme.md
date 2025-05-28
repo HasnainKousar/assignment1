@@ -33,4 +33,8 @@ This will show the content of the readme.md file
 
 9. git init : a git command to initialize the current directory as a Git repository.  
 Ex: username:~/assignment1$ git init  
-This will initialize assignment1 as a Git repository
+This will initialize assignment1 as a Git repository  
+
+10. git clone : a git command to clone/retrieve an entire repo from a hosted location such as Github.  
+Ex. username:~$ git clone url  
+This will clone the entire repo from the hosted location given by the url
