@@ -18,3 +18,7 @@ This will create a new directory called "assignment1" in the assignments directo
 5. touch : a linux command to create an empty file in the current directory.  
 Ex:  username:~/assignment1$ touch readme.md  
 This will create a new file "readme.md" in the assignment1 directory  
+
+6. rm - a linux command to remove files and directories.  
+Ex:  username:~/assignment1$ rm readme.md  
+This will remove the readme.md file from the assignment1 directory    
