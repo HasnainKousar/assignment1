@@ -49,4 +49,8 @@ This will connect your local repo to a remote repo
 
 13. git push : a git command to push/upload the content from your local repo to the remote repo.  
 Ex: username:~/assignment1$ git push origin main  
-This will push changes from your main branch on local repo to the main branch on remote repo 
+This will push changes from your main branch on local repo to the main branch on remote repo  
+
+14. git add : git command to add a file in it's current status to the next commit.  
+Ex: username:~/assignment1$ git add readme.md  
+This will add the readme.md file in it's current form with all the changes to the next commit 
