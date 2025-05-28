@@ -37,4 +37,8 @@ This will initialize assignment1 as a Git repository
 
 10. git clone : a git command to clone/retrieve an entire repo from a hosted location such as Github.  
 Ex. username:~$ git clone url  
-This will clone the entire repo from the hosted location given by the url
+This will clone the entire repo from the hosted location given by the url  
+
+11. git checkout -b "name" : a git command to create a new branch and switch to it.  
+Ex: username:~/assignment1$ git checkout -b branch1  
+This will create a new branch called branch1 and switch to it
