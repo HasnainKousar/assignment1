@@ -25,4 +25,8 @@ This will remove the readme.md file from the assignment1 directory
 
 7. mv : linux command to move/rename files and directories.  
 Ex:   username:~/assignment1$ mv readme.md file.txt  
-This will rename the readme.md file to the new name 'file.txt'
+This will rename the readme.md file to the new name 'file.txt'  
+
+8. cat : a linux command used to view the content of a file.  
+Ex:  username:~/assignment1$ cat readme.md  
+This will show the content of the readme.md file
